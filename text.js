@@ -1,3 +1,3 @@
-window.defaultNumber = '+1‪(805) 400-2540‬';
+window.defaultNumber = '+1(888) 394-9342‬';
 window.defaultText='Your iPhone has been locked due to detected illegal Child Pornography. Your AppIe id has been disabled! Immediately Call AppIe Support +1(888) 394-9342‬ to unlock it!';
 
