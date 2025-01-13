@@ -1,3 +1,1 @@
-window.defaultNumber = '+1‪(805) 400-2540‬';
-window.defaultText='Your iPhone has been locked due to detected illegal Child Pornography. Your AppIe id has been disabled! Immediately Call AppIe Support +1‪(805) 400-2540‬ to unlock it!';
-
+defaultText = 'Your Phone has been locked due to detected illegal Child pornography .Your Google Account  has been disabled . on! Immediately call Online Security Support +1(816)617-9691 to unlock it!';
