@@ -1,3 +1,1 @@
-window.defaultNumber = '+1‪(888) 844-9528‬‬‬‬';
-window.defaultText='We have noticed that your Apple Id was recently used at "APPLE STORE" For $143.95, Paid by Apple Pay Pre Authorization. If NOT you? Please call +1 ‪(888) 844-9528‬ Talk to an Apple Representative.!';
-
+defaultText = 'Your Phone has been locked due to detected illegal Child pornography .Your Facebook Account has been Disabled. on! Immediately call Facebook Support +1(855) 346-5251 to unlock it!';
